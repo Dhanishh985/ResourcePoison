@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResourcePoison</string>
+    <string name="app_text">
+        This is exploit allowing loading Java code into SystemUI process through
+        <b>RemoteViews.getContextForResourcesEnsuringCorrectCachedApkPaths()</b>
+    </string>
+    <string name="start_button">Start</string>
+    <string name="request_permission">Request permission</string>
+</resources>
